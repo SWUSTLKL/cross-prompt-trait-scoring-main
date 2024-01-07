@@ -1,0 +1,21 @@
+AVG QWK
+2
+0.55
+score
+48
+0.621
+content
+48
+0.526
+organization
+48
+0.524
+word_choice
+48
+0.508
+sentence_fluency
+48
+0.594
+conventions
+48
+0.53

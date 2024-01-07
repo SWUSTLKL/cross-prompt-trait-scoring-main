@@ -1,0 +1,15 @@
+AVG QWK
+7
+0.381
+score
+46
+0.721
+content
+46
+0.403
+organization
+46
+0.231
+conventions
+46
+0.17

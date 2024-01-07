@@ -1,0 +1,18 @@
+AVG QWK
+3
+0.589
+score
+37
+0.631
+content
+37
+0.603
+prompt_adherence
+37
+0.557
+language
+37
+0.526
+narrativity
+37
+0.626
